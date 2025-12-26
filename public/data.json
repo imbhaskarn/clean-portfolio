@@ -1,0 +1,57 @@
+{
+  "name": "Alex Morgan",
+  "role": "Back-End Developer",
+  "summary": "Back-end developer focused on building reliable systems, APIs, and data-driven applications.",
+  "about": "I work primarily on server-side systems, database design, and API development. I prefer simple, maintainable solutions and clean architectures.",
+  "experience": [
+    {
+      "company": "Nimbus Tech",
+      "role": "Back-End Engineer",
+      "duration": "2022 – Present",
+      "description": "Worked on REST APIs, background workers, and database optimization for internal platforms."
+    },
+    {
+      "company": "Cloudstack Labs",
+      "role": "Software Developer",
+      "duration": "2020 – 2022",
+      "description": "Built internal tools and services used by multiple teams."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Order Processing Service",
+      "description": "A microservice responsible for handling order lifecycle and event-based updates.",
+      "tech": ["Node.js", "PostgreSQL", "Redis"],
+      "links": {
+        "repository": "https://github.com/example/order-service",
+        "demo": null
+      }
+    },
+    {
+      "title": "Analytics API",
+      "description": "API for aggregating and serving analytics data for dashboards.",
+      "tech": ["Python", "FastAPI", "MongoDB"],
+      "links": {
+        "repository": "https://github.com/example/analytics-api",
+        "demo": null
+      }
+    }
+  ],
+  "technologies": [
+    "Node.js",
+    "Python",
+    "PostgreSQL",
+    "MongoDB",
+    "Redis",
+    "Docker",
+    "Linux"
+  ],
+  "links": {
+    "github": "https://github.com/example",
+    "linkedin": "https://linkedin.com/in/example",
+    "website": null
+  },
+  "contact": {
+    "email": "alex@example.com"
+  }
+}
