@@ -35,10 +35,10 @@ const Index = () => {
       
       <main className="min-h-screen pb-16">
         <Header name={data.name} role={data.role} summary={data.summary} />
-        <About about={data.about} />
         <Experience experience={data.experience} />
         <Projects projects={data.projects} />
         <Technologies technologies={data.technologies} />
+        <About about={data.about} />
         <Links links={data.links} />
         <Contact contact={data.contact} />
       </main>
